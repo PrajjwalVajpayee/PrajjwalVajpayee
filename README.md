@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **prajjwalvajpayee12@gmail.com**
 
-- 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/16vUg9Eo7AV1Q0oGsZv9_--7n3lXC40Ot/view?usp=sharing)
+- 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1DrWhLxgbKgVjMw8saMetoXemxLWueUZO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
