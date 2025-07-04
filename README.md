@@ -45,16 +45,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalvajpayee&theme=radical&hide_border=true" height="140"/>
 </p>
 
----
-
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/prajjwalvajpayee/vehiql">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajjwalvajpayee&repo=vehiql&theme=radical" height="120"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/prajjwalvajpayee/learning-hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajjwalvajpayee&repo=learning-hub&theme=radical" height="120"/>
-  </a>
-</p>
