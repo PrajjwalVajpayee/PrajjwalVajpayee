@@ -1,13 +1,16 @@
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prajjwalvajpayee&style=flat-square&color=000000" height="20"/>
+</p>
+<h1 align="center">Hi 👋, I'm Prajjwal Vajpayee</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=00FFAA&center=true&vCenter=true&width=380&lines=React+%7C+Next+%7C+Node+%7C+MongoDB;Always+learning+something+new+💡" />
 </p>
-<h1 align="center">Hi 👋, I'm Prajjwal Vajpayee</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajjwalvajpayee&style=flat-square&color=000000" height="20"/>
-</p>
-📬 Reach Me:  
-📩 **prajjwalvajpayee12@gmail.com** &nbsp;&nbsp;|&nbsp;&nbsp; [📄 View Resume](https://drive.google.com/file/d/1DrWhLxgbKgVjMw8saMetoXemxLWueUZO/view?usp=sharing)
 
+  📫 Reach me at: <strong>prajjwalvajpayee12@gmail.com</strong>  
+  📄 <a href="https://drive.google.com/file/d/1DrWhLxgbKgVjMw8saMetoXemxLWueUZO
+/view?usp=sharing" target="_blank">View My Resume</a>
 ---
 
 ### ⚙️ Tech Stack
@@ -56,5 +59,7 @@
   🚀 I have a strong grasp on <strong>C++</strong> and Data Structures.
   <br/>⚙️ Hands-on experience with the <strong>MERN Stack</strong> (MongoDB, Express, React, Node.js).
   <br/>🧠 Solved <strong>500+ LeetCode problems</strong> and still grinding daily.
-  <br/>📘 Familiar with <strong>Python</strong>, <strong>Java</strong>, and <strong>Machine Learning</strong> basics.
+  <br/>📘 Familiar with <strong>Python</strong>, <strong>Java</strong>, and <strong>Machine Learning</strong> basics. 
+
 </p>
+Bhai bahut simple lag rhi profile thodi se eye catching se bna do 
