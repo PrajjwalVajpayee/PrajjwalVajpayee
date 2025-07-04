@@ -12,7 +12,7 @@
   📄 <a href="https://drive.google.com/file/d/1DrWhLxgbKgVjMw8saMetoXemxLWueUZO
 /view?usp=sharing" target="_blank">View My Resume</a>
   </p>
----
+
 
 ### ⚙️ Tech Stack
 <p align="left">
@@ -63,4 +63,4 @@
   <br/>📘 Familiar with <strong>Python</strong>, <strong>Java</strong>, and <strong>Machine Learning</strong> basics. 
 
 </p>
-Bhai bahut simple lag rhi profile thodi se eye catching se bna do 
+
