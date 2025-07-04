@@ -33,12 +33,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalvajpayee&theme=radical&hide_border=true" height="140"/>
-</p>
 
 ---
 
@@ -57,7 +52,7 @@
 
 ### 🙋‍♂️ About Me
 
-<p align="center">
+<p align="left">
   💡 C++ ka solid hold hai, DSA mast kiya hai  
   <br/>💻 MERN Stack me full development kar rakha hai  
   <br/>🔥 LeetCode pe 500+ sawaal tod diye hain  
