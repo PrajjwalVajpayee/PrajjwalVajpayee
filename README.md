@@ -57,8 +57,8 @@
 
 ---
 
-### 📈 LeetCode Stats
+### 🌿 LeetCode Activity Heatmap
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/prajjwalvajpayee12?theme=dark&font=Baloo+Bhai+2&ext=contest" />
+  <img src="https://github-readme-leetcode-stats.vercel.app/api/submission-calendar?username=prajjwalvajpayee12" />
 </p>
