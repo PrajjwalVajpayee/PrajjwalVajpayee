@@ -6,14 +6,15 @@
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=00FFAA&center=true&vCenter=true&width=380&lines=React+%7C+Next+%7C+Node+%7C+MongoDB;Always+learning+something+new+💡" />
-</p>
+</p
+  ---
 <p>
   📫 Reach me at: prajjwalvajpayee12@gmail.com
   📄 <a href="https://drive.google.com/file/d/1DrWhLxgbKgVjMw8saMetoXemxLWueUZO
 /view?usp=sharing" target="_blank">View My Resume</a>
   </p>
 
-
+---
 ### ⚙️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
