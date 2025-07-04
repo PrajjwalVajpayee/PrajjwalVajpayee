@@ -52,7 +52,7 @@
 
 ### 🙋‍♂️ About Me
 
-<p align="center">
+<p align="left">
   🚀 I have a strong grasp on <strong>C++</strong> and Data Structures  
   <br/>⚙️ Hands-on experience with the <strong>MERN Stack</strong> (MongoDB, Express, React, Node.js)  
   <br/>🧠 Solved <strong>500+ LeetCode problems</strong> and still grinding daily  
