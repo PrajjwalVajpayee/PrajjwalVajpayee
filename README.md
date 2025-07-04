@@ -60,5 +60,5 @@
 ### 🌿 LeetCode Daily Heatmap
 
 <p align="center">
-  <img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=prajjwalvajpayee12" width="100%" />
+  <img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=prajjwalvajpayee12&square=true&color=00aa00" width="100%" />
 </p>
