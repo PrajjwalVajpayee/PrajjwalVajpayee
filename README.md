@@ -13,23 +13,18 @@
 
 ### 🙋‍♂️ About Me
 - 🔭 Building **AI Car Marketplace**, LMS & more  
-- 🌱 Learning **Next.js**, PostgreSQL & a lil’ ML  
+- 🌱 Learning **Next.js**, PostgreSQL & ML  
 - 💬 Ask me about **React, Node, Mongo, SQL**  
 - 📫 Reach me: **prajjwalvajpayee12@gmail.com**  
 - 📄 [My Resume](https://drive.google.com/file/d/1DrWhLxgbKgVjMw8saMetoXemxLWueUZO/view?usp=sharing)
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/prajjwal-vajpayee-9899b0259" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" />
-  </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/prajjwalvajpayee12" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="25" />
-  </a>
+  <a href="https://linkedin.com/in/prajjwal-vajpayee-9899b0259" target="_blank">LinkedIn</a> •
+  <a href="https://www.leetcode.com/prajjwalvajpayee12" target="_blank">LeetCode</a>
 </p>
 
 ---
