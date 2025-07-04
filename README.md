@@ -55,3 +55,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalvajpayee&theme=radical&hide_border=true" height="140"/>
 </p>
 
+---
+
+### 📈 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prajjwalvajpayee12?theme=dark&font=Baloo+Bhai+2&ext=contest" />
+</p>
