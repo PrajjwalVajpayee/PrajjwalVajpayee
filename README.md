@@ -1,16 +1,17 @@
 
-<p align="left">
+<p>
   <img src="https://komarev.com/ghpvc/?username=prajjwalvajpayee&style=flat-square&color=000000" height="20"/>
-</p>
-<h1 align="center">Hi 👋, I'm Prajjwal Vajpayee</h1>
 
+<h1 align="center">Hi 👋, I'm Prajjwal Vajpayee</h1>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=00FFAA&center=true&vCenter=true&width=380&lines=React+%7C+Next+%7C+Node+%7C+MongoDB;Always+learning+something+new+💡" />
 </p>
-
+<p>
   📫 Reach me at: prajjwalvajpayee12@gmail.com
   📄 <a href="https://drive.google.com/file/d/1DrWhLxgbKgVjMw8saMetoXemxLWueUZO
 /view?usp=sharing" target="_blank">View My Resume</a>
+  </p>
 ---
 
 ### ⚙️ Tech Stack
