@@ -57,10 +57,12 @@
 
 ### 🙋‍♂️ About Me
 
-<p align="left">
-  🔭 Working on AI Car Marketplace, LMS, and more  
-  <br/>🌱 Learning Next.js, PostgreSQL, ML  
-  <br/>💬 Ask me about React, Node, MongoDB, SQL  
-  <br/>📩 Email: <strong>prajjwalvajpayee12@gmail.com</strong>  
-  <br/>📄 <a href="https://drive.google.com/file/d/1DrWhLxgbKgVjMw8saMetoXemxLWueUZO/view?usp=sharing" target="_blank">View My Resume</a>
+<p align="center">
+  💡 C++ ka solid hold hai, DSA mast kiya hai  
+  <br/>💻 MERN Stack me full development kar rakha hai  
+  <br/>🔥 LeetCode pe 500+ sawaal tod diye hain  
+  <br/>🧠 Python, Java aur Machine Learning ke basics pad rakhe hain  
+  <br/>📫 Email: <strong>prajjwalvajpayee12@gmail.com</strong>  
+  <br/>📄 <a href="https://drive.google.com/file/d/1DrWhLxgbKgVjMw8saMetoXemxLWueUZO/view?usp=sharing" target="_blank">Resume Dekhne Ka Link</a>
 </p>
+
