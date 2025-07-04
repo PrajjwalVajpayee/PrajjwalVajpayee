@@ -8,9 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=prajjwalvajpayee&style=flat-square&color=000000" height="20"/>
 </p>
 
-<!-- TECH STACK BADGES -->
-<h3 align="center">⚙️ Tech Stack</h3>
+---
 
+### ⚙️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -33,39 +33,37 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<!-- CONNECT -->
-<h3 align="center">🌐 Connect with Me</h3>
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajjwalvajpayee&show_icons=true&theme=radical&hide_title=true&hide_rank=true" height="140"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalvajpayee&theme=radical&hide_border=true" height="140"/>
+</p>
+
+---
+
+### 📫 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/prajjwal-vajpayee-9899b0259" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/prajjwalvajpayee12" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="25" />
   </a>
 </p>
 
+---
 
-<!-- ABOUT -->
-<h3 align="center">🙋‍♂️ About Me</h3>
-
-<ul>
-  <li>🔭 Currently building: AI Car Marketplace, LMS and more</li>
-  <li>🌱 Learning: Next.js, PostgreSQL, ML</li>
-  <li>💬 Ask me about: React, Node, MongoDB, SQL</li>
-  <li>📫 Email: <strong>prajjwalvajpayee12@gmail.com</strong></li>
-  <li>📄 <a href="https://drive.google.com/file/d/1DrWhLxgbKgVjMw8saMetoXemxLWueUZO/view?usp=sharing" target="_blank">View Resume</a></li>
-</ul>
-
-<!-- GITHUB STATS -->
-<h3 align="center">📊 GitHub Stats</h3>
+### 🙋‍♂️ About Me
 
 <p align="center">
-  
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalvajpayee&theme=radical&hide_border=true" height="140" align="center"/>
+  🔭 Working on AI Car Marketplace, LMS, and more  
+  <br/>🌱 Learning Next.js, PostgreSQL, ML  
+  <br/>💬 Ask me about React, Node, MongoDB, SQL  
+  <br/>📩 Email: <strong>prajjwalvajpayee12@gmail.com</strong>  
+  <br/>📄 <a href="https://drive.google.com/file/d/1DrWhLxgbKgVjMw8saMetoXemxLWueUZO/view?usp=sharing" target="_blank">View My Resume</a>
 </p>
-
-<!-- LEETCODE HEATMAP -->
-
