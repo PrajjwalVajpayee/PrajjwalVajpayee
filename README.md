@@ -52,12 +52,13 @@
 
 ### 🙋‍♂️ About Me
 
-<p align="left">
-  💡 C++ ka solid hold hai, DSA mast kiya hai  
-  <br/>💻 MERN Stack me full development kar rakha hai  
-  <br/>🔥 LeetCode pe 500+ sawaal tod diye hain  
-  <br/>🧠 Python, Java aur Machine Learning ke basics pad rakhe hain  
-  <br/>📫 Email: <strong>prajjwalvajpayee12@gmail.com</strong>  
-  <br/>📄 <a href="https://drive.google.com/file/d/1DrWhLxgbKgVjMw8saMetoXemxLWueUZO/view?usp=sharing" target="_blank">Resume Dekhne Ka Link</a>
+<p align="center">
+  🚀 I have a strong grasp on <strong>C++</strong> and Data Structures  
+  <br/>⚙️ Hands-on experience with the <strong>MERN Stack</strong> (MongoDB, Express, React, Node.js)  
+  <br/>🧠 Solved <strong>500+ LeetCode problems</strong> and still grinding daily  
+  <br/>📘 Familiar with <strong>Python</strong>, <strong>Java</strong>, and <strong>Machine Learning</strong> basics  
+  <br/>📫 Reach me at: <strong>prajjwalvajpayee12@gmail.com</strong>  
+  <br/>📄 <a href="https://drive.google.com/file/d/1DrWhLxgbKgVjMw8saMetoXemxLWueUZO/view?usp=sharing" target="_blank">View My Resume</a>
 </p>
+
 
