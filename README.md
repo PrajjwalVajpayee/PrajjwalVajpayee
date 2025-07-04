@@ -37,22 +37,19 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajjwalvajpayee&show_icons=true&theme=radical&hide_title=true&hide_rank=true" height="140"/>
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalvajpayee&theme=radical&hide_border=true" height="140"/>
 </p>
 
 ---
 
 ### 📫 Connect with Me
-
 <p align="center">
   <a href="https://linkedin.com/in/prajjwal-vajpayee-9899b0259" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/prajjwalvajpayee12" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="25" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
