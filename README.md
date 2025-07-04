@@ -57,7 +57,7 @@
 
 ### 🙋‍♂️ About Me
 
-<p align="center">
+<p align="left">
   🔭 Working on AI Car Marketplace, LMS, and more  
   <br/>🌱 Learning Next.js, PostgreSQL, ML  
   <br/>💬 Ask me about React, Node, MongoDB, SQL  
