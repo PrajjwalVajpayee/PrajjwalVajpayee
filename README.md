@@ -22,7 +22,7 @@
 
 ### 🌐 Connect with Me
 
-<h3 align="left">Connect with me:</h3>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/prajjwal-vajpayee-9899b0259" target="_blank">
