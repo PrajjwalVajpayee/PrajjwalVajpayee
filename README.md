@@ -57,8 +57,8 @@
 
 ---
 
-### 🌿 LeetCode Activity Heatmap
+### 🌿 LeetCode Daily Heatmap
 
 <p align="center">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api/submission-calendar?username=prajjwalvajpayee12" />
+  <img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=prajjwalvajpayee12" width="100%" />
 </p>
