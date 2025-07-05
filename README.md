@@ -55,6 +55,12 @@
 
 ---
 
+### 📈 GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=prajjwalvajpayee&theme=tokyonight&hide_border=true" height="150"/>
+
+---
+
 ### 🙋‍♂️ About Me
 
 <p align="left">
