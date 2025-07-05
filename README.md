@@ -1,7 +1,7 @@
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=prajjwalvajpayee&style=flat-square&color=000000" height="20"/>
 
+  <img src="https://komarev.com/ghpvc/?username=prajjwalvajpayee&style=flat-square&color=000000" height="20"/>
+<p align= "center">
 <h1 align="center">Hi 👋, I'm Prajjwal Vajpayee</h1>
 </p>
 <p align="center">
