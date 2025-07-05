@@ -57,7 +57,7 @@
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=prajjwalvajpayee&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=prajjwalvajpayee&theme=tokyonight&hide_border=true" align="center" height="150"/>
 
 ---
 
