@@ -10,8 +10,7 @@
   ---
 <p>
   📫 Reach me at: prajjwalvajpayee12@gmail.com
-  📄 <a href="[https://drive.google.com/file/d/1DrWhLxgbKgVjMw8saMetoXemxLWueUZO
-/view?usp=sharing](https://drive.google.com/file/d/1dAeYwS58akgYZZtlMYmFzMj4gU24gLsf/view?usp=sharing" target="_blank">View My Resume</a>
+  📄 <a href="https://drive.google.com/file/d/1dAeYwS58akgYZZtlMYmFzMj4gU24gLsf/view?usp=sharing" target="_blank">View My Resume</a>
   </p>
 
 ---
